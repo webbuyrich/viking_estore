@@ -150,6 +150,8 @@
     margin: 0 auto;
     display:block;
     padding:10px 0px;
+    clear:both;
+    
 }
 
 .margin-left60{
@@ -209,5 +211,51 @@
     margin-left:25%;
 
 }
+
+.pagination{
+    width:100%;
+    margin:0 auto;
+    
+}
+
+#pagination-list li{
+    list-style-type: none;
+    display:inline;
+}
+
+#pagination-list li a{
+    text-decoration: none;
+    color: #000;
+}
+
+.section-footer{
+    height: 200px;
+    width: 100%;
+    border: 2px solid #000;
+    border-top:none;
+    overflow:auto;
+    position: relative;
+    background: #333333;
+}
+
+#footer-heading{
+    margin-top:20px;
+    color: #E48013;
+}
+
+.contact{
+    color: #fff;
+}
+
+#pagination-list li{
+    list-style-type: none;
+    display:inline;
+}
+
+#pagination-list li a{
+    text-decoration: none;
+    color: #000;
+}
+
 
       

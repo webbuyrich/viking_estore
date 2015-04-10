@@ -143,11 +143,42 @@
                                 <div class="item-cart text-center">Add to Cart</div>
                             </div>
                             
-                        </div>
-                        
+                        </div>                       
 
                     </div><!--end row-->
+
+                    <!--START PAGINATION-->
+                    <div class="store-row">
+                        <div class="pagination text-center">
+                            <ul id="pagination-list">
+                                <li class="glyphicon glyphicon-backward"></li>
+                                <li><a href="#">PREV</a></li>
+                                <li><a href="#">1</a> </li>
+                                <li><a href="#">2</a> </li>
+                                <li><a href="#">3</a> </li>
+                                <li><a href="#"> ... </a></li>
+                                <li><a href="#">8 </a></li>
+                                <li><a href="#">9 </a></li>
+                                <li><a href="#">NEXT</a></li>
+                                <li class="glyphicon glyphicon-forward"></li>
+                            </ul>
+                        </div>
+                    </div>
                 </div><!--end store container -->
+
+                <!--START SLIDESHOW BOTTOM TEXT -->
+                <div class="section-footer text-center">
+
+
+                        <h5 id="footer-heading">CONTACT</h5>
+                        <div class="glyphicon glyphicon-envelope" style="color:#fff;">&nbsp;(555) 555- 5555</div><br />
+                        <div class="glyphicon glyphicon-envelope" style="color:#fff;">&nbsp;sample@mail.com</div>
+                        
+                        
+                    
+                </div><!--end slideshow bottom-->
+
+
 
             </div><!--end wrapper-->
         </div><!--end container-->  
