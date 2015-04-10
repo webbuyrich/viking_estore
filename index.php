@@ -78,33 +78,75 @@
 
                     <div class="store-row">
 
+                        <div class="item-box margin-left60">
+                            <div class="item-heading text-center">The Silent Night</div>
+                            <div class="item-picture"><img src="http://placehold.it/196x200" alt="">
+                                <div class="item-price text-center">$200</div>
+                            </div>                            
+                            <div class="item-footer">
+                                <div class="item-cart text-center">Add to Cart</div>
+                            </div>
+                            
+                        </div> 
                         <div class="item-box">
                             <div class="item-heading text-center">The Silent Night</div>
-                            <div class="item-picture"><img src="http://placehold.it/200x200" alt="">
-                                <div class="item-price text-center">$200</div></div>
+                            <div class="item-picture"><img src="http://placehold.it/196x200" alt="">
+                                <div class="item-price text-center">$200</div>
+                            </div>                            
+                            <div class="item-footer">
+                                <div class="item-cart text-center">Add to Cart</div>
+                            </div>
                             
-                            <div class="item-footer"></div>
-                            <div class="item-cart">Add to Cart</div>
                         </div>
                         <div class="item-box">
-                            <div class="item-heading text-center"></div>
-                            <div class="item-picture"><img src="" alt=""></div>
-                            <div class="item-price"></div>
-                            <div class="item-footer"></div>
-                            <div class="item-cart"></div>
+                            <div class="item-heading text-center">The Silent Night</div>
+                            <div class="item-picture"><img src="http://placehold.it/196x200" alt="">
+                                <div class="item-price text-center">$200</div>
+                            </div>                            
+                            <div class="item-footer">
+                                <div class="item-cart text-center">Add to Cart</div>
+                            </div>
+                            
+                        </div>
+                        
+
+                    </div><!--end row-->
+
+                    <div class="store-row">
+
+                        <div class="item-box margin-left60">
+                            <div class="item-heading text-center">The Silent Night</div>
+                            <div class="item-picture"><img src="http://placehold.it/196x200" alt="">
+                                <div class="item-price text-center">$200</div>
+                            </div>                            
+                            <div class="item-footer">
+                                <div class="item-cart text-center">Add to Cart</div>
+                            </div>
+                            
+                        </div> 
+                        <div class="item-box">
+                            <div class="item-heading text-center">The Silent Night</div>
+                            <div class="item-picture"><img src="http://placehold.it/196x200" alt="">
+                                <div class="item-price text-center">$200</div>
+                            </div>                            
+                            <div class="item-footer">
+                                <div class="item-cart text-center">Add to Cart</div>
+                            </div>
+                            
                         </div>
                         <div class="item-box">
-                            <div class="item-heading text-center"></div>
-                            <div class="item-picture"><img src="" alt=""></div>
-                            <div class="item-price"></div>
-                            <div class="item-footer"></div>
-                            <div class="item-cart"></div>
+                            <div class="item-heading text-center">The Silent Night</div>
+                            <div class="item-picture"><img src="http://placehold.it/196x200" alt="">
+                                <div class="item-price text-center">$200</div>
+                            </div>                            
+                            <div class="item-footer">
+                                <div class="item-cart text-center">Add to Cart</div>
+                            </div>
+                            
                         </div>
+                        
 
-                    </div><!--end row one -->
-                    
-
-
+                    </div><!--end row-->
                 </div><!--end store container -->
 
             </div><!--end wrapper-->

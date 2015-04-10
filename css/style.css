@@ -147,27 +147,39 @@
 
 .store-row{
     width:80%;
-    margin:20px auto;
+    margin: 0 auto;
+    display:block;
+    padding:10px 0px;
+}
 
+.margin-left60{
+    margin-left:60px!important;
 }
 
 .item-box{
     width:200px;
     display:block inline;
+    float:left;
+    margin: 0px 5px 10px 0px;
     
 }
 
-.item-heading{
+
+.item-heading,.item-footer{
     background: #333333;
     color: #fff;
     font-size: 1.068em;
     padding:5px;
-    width:auto;
+    width:100%;
+    border: 2px solid #000;
+    position:relative;
     
 }
 .item-picture{
     position: relative;
     float: left;
+    border: 2px solid #000;
+    border-bottom:none;
     
 }
 
@@ -178,6 +190,24 @@
     width:25%;
     background:#fff;
     border: 1px  solid #000;
+}
+
+.item-footer{
+    position:relative;
+    float: left;
+   
+}
+
+.item-cart{
+    
+    float:left;
+    border:2px solid #000;
+    box-shadow: 2px 2px 5px #000;
+    background:#F6B26B;
+    color: #333333;
+    width:50%;
+    margin-left:25%;
+
 }
 
       
