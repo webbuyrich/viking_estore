@@ -136,4 +136,48 @@
     margin:auto;
 }
 
+.section-store-container{
+    border: 2px solid #000;
+    border-top: none;
+    height:auto; 
+    width: 100%;    
+    overflow:auto;
+    position: relative;
+}
+
+.store-row{
+    width:80%;
+    margin:20px auto;
+
+}
+
+.item-box{
+    width:200px;
+    display:block inline;
+    
+}
+
+.item-heading{
+    background: #333333;
+    color: #fff;
+    font-size: 1.068em;
+    padding:5px;
+    width:auto;
+    
+}
+.item-picture{
+    position: relative;
+    float: left;
+    
+}
+
+.item-price{
+    position:absolute;
+    top:0;   
+    right:0;
+    width:25%;
+    background:#fff;
+    border: 1px  solid #000;
+}
+
       

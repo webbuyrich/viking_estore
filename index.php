@@ -28,7 +28,7 @@
                             <input type="text" id="url-bar">
                         </div>
                         <div class="search-bar">
-                           <input type="text" id="search-bar" placeholder="Search">
+                           <input type="text" id="search-bar" class="text-center" placeholder="Search">
                             <img src="" alt="">
                         </div>
 
@@ -72,6 +72,40 @@
                     <h3 class="" id="store-heading"><em>Choose from among our lineup of fine axes below</em></h3>
                     
                 </div><!--end heading -->
+
+                <!-- START ESTORE ITEMS -->
+                <div class="section-store-container">
+
+                    <div class="store-row">
+
+                        <div class="item-box">
+                            <div class="item-heading text-center">The Silent Night</div>
+                            <div class="item-picture"><img src="http://placehold.it/200x200" alt="">
+                                <div class="item-price text-center">$200</div></div>
+                            
+                            <div class="item-footer"></div>
+                            <div class="item-cart">Add to Cart</div>
+                        </div>
+                        <div class="item-box">
+                            <div class="item-heading text-center"></div>
+                            <div class="item-picture"><img src="" alt=""></div>
+                            <div class="item-price"></div>
+                            <div class="item-footer"></div>
+                            <div class="item-cart"></div>
+                        </div>
+                        <div class="item-box">
+                            <div class="item-heading text-center"></div>
+                            <div class="item-picture"><img src="" alt=""></div>
+                            <div class="item-price"></div>
+                            <div class="item-footer"></div>
+                            <div class="item-cart"></div>
+                        </div>
+
+                    </div><!--end row one -->
+                    
+
+
+                </div><!--end store container -->
 
             </div><!--end wrapper-->
         </div><!--end container-->  
