@@ -66,6 +66,13 @@
                     
                 </div><!--end slideshow bottom-->
 
+                <!--START STORE HEADING -->
+                <div class="section-store-heading text-center">
+
+                    <h3 class="" id="store-heading"><em>Choose from among our lineup of fine axes below</em></h3>
+                    
+                </div>
+
             </div><!--end wrapper-->
         </div><!--end container-->  
         <script src="js/bootstrap.min.js"></script>     
